@@ -41,9 +41,9 @@
 ### :pencil: My Contributions
 
 <div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+
+  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
+  
 </div>
 
 ### :fire: GitHub Stats
