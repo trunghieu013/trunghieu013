@@ -42,7 +42,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/sung2708/sung2708/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sung2708/sung2708/blob/output/github-contribution-grid-snake.gif
   
 </div>
 
