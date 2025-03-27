@@ -3,7 +3,7 @@ name: generate-snake
 on:
   # 每 24 小时自动运行一次
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
 
   # 允许手动触发执行
   workflow_dispatch:
