@@ -14,28 +14,27 @@
 
 ### 👨‍💻 关于我
 
-- 🔭 正在从事~~令人兴奋~~的~~开源~~项目开发（连续熬夜，头发越来越少，你说我秃不秃？）
-- 🌱 专注于 Java、Go、C#、JS、Python、PHP、易语言（我啥都会一点，但是我啥都不精）
-- 💡 热衷于探索新技术栈和构建有趣的项目（我啥都想学，我啥都学不会）
-- 🎯 目标：为更多开源项目做出贡献（如果我有时间的话）
-- ⚡ 我不想把时间浪费在无意义的事情上（哪怕拉屎没带纸））
+- 🔭 正在从事前端开发和学习
+- 🌱 专注于 JavaScript、HTML、CSS、React、Node.js
+- 💡 热衷于探索前端技术栈和构建有趣的项目
+- 🎯 目标：成为全栈开发工程师
+- ⚡ 不断学习，不断进步
 
 <br/>
 
 ### 🛠️ 技术栈
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,c#,js,python,php,docker,mysql,redis,nginx,linux,git,vim,pycharm,idea,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,windows" />
 </div>
 
 ### 📊 GitHub 统计
