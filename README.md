@@ -46,7 +46,7 @@
 
 ### 🐍 贡献图
 
-![贡献统计](https://raw.githubusercontent.com/trunghieu013/trunghieu013/refs/heads/output/github-contribution-grid-snake.svg)
+![贡献统计](https://raw.githubusercontent.com/trunghieu013/trunghieu/output/github-contribution-grid-snake.svg)
 
 ### 📈 活动图表
 
