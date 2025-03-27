@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/yuaotian?label=关注者&style=social" alt="GitHub关注者" />
-  <img src="https://img.shields.io/github/stars/yuaotian?label=获赞&style=social" alt="GitHub星标" />
-  <img src="https://komarev.com/ghpvc/?username=yuaotian&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
+  <img src="https://img.shields.io/github/followers/trunghieu013?label=关注者&style=social" alt="GitHub关注者" />
+  <img src="https://img.shields.io/github/stars/trunghieu013?label=获赞&style=social" alt="GitHub星标" />
+  <img src="https://komarev.com/ghpvc/?username=trunghieu013&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
 </div>
 
 <br/>
@@ -18,7 +18,7 @@
 - 🌱 专注于 Java、Go、C#、JS、Python、PHP、易语言（我啥都会一点，但是我啥都不精）
 - 💡 热衷于探索新技术栈和构建有趣的项目（我啥都想学，我啥都学不会）
 - 🎯 目标：为更多开源项目做出贡献（如果我有时间的话）
-- ⚡  我不想把时间浪费在无意义的事情上（哪怕拉屎没带纸））
+- ⚡ 我不想把时间浪费在无意义的事情上（哪怕拉屎没带纸））
 
 <br/>
 
@@ -41,26 +41,26 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuaotian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuaotian&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trunghieu013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trunghieu013&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
 </div>
 
 ### 🐍 贡献图
 
-![贡献统计](https://raw.githubusercontent.com/yuaotian/yuaotian/refs/heads/output/github-contribution-grid-snake.svg)
+![贡献统计](https://raw.githubusercontent.com/trunghieu013/trunghieu013/refs/heads/output/github-contribution-grid-snake.svg)
 
 ### 📈 活动图表
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuaotian&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trunghieu013&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
 ### ⌛ 编码时间统计
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuaotian&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&range=last_30_days&locale=cn" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=trunghieu013&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&range=last_30_days&locale=cn" width="100%" />
 
 ### 🤝 联系方式
 
 <div align="center">
-  <a href="https://github.com/yuaotian">
+  <a href="https://github.com/trunghieu013">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:yuaotian1998@163.com">
@@ -85,4 +85,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5cb3cc&height=100&section=footer&text=&fontSize=24&fontAlignY=80" width="100%"/>
 </div>
-
