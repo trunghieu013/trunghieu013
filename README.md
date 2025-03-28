@@ -6,11 +6,10 @@
 
 ### :rocket: About me
 
-:mortar*board: \_I am a 3 year student at Duy Tan University*
+🎓: \_I am a 3 year student at Duy Tan University*
 
-:computer: Hey! _I specialize in backend development for web apps. My toolkit includes Node.js and Python, along with Express.js and Django frameworks. I'm also well-versed in HTML/CSS and JavaScript. Let's craft some impressive solutions together!_
-
-:information*desk_person: \_I like to learn about surrounding technologies for web programming. Learn about cloud computing, DevOps, and AI*
+💻: Hey! _I specialize in backend development for web apps. My toolkit includes Node.js and Python, along with Express.js and Django frameworks. I'm also well-versed in HTML/CSS and JavaScript. Let's craft some impressive solutions together!_
+💁: \_I like to learn about surrounding technologies for web programming. Learn about cloud computing, DevOps, and AI*
 
 <div align="center">
 
