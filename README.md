@@ -56,7 +56,9 @@
     <img width="415" align="right" src="https://github-readme-stats.vercel.app/api?username=trunghieu013&theme=react&show_icons=true" />
   </a>
 </div>
+
 ### 📈 Diagram Activities
+
 <diV align=center>
     
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=trunghieu013&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
