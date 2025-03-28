@@ -48,13 +48,9 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" title="trunghieu013">
-    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trunghieu013&layout=donut&theme=react"/>
-  </a>
-  <a href="#" title="trunghieu013">
-    <img width="415" align="right" src="https://github-readme-stats.vercel.app/api?username=trunghieu013&theme=react&show_icons=true" />
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trunghieu013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trunghieu013&layout=compact&langs_count=8&theme=tokyonight&locale=cn"/>
 </div>
 
 ### 📈 Diagram Activities
