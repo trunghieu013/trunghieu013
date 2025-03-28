@@ -6,7 +6,7 @@
 
 ### :rocket: About me
 
-🎓 I am a 3 year student at Duy Tan University*
+🎓 I am a 3 year student at Duy Tan University
 
 💻 Hey! I specialize in backend development for web apps. My toolkit includes Node.js and Python, along with Express.js and Django frameworks. I'm also well-versed in HTML/CSS and JavaScript. Let's craft some impressive solutions together!
 
