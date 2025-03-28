@@ -1,4 +1,4 @@
-name: generate-snake
+name: main.yml
 
 on:
   # Automatically runs once every 24 hours
