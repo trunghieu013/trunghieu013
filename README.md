@@ -56,7 +56,6 @@
     <img width="415" align="right" src="https://github-readme-stats.vercel.app/api?username=trunghieu013&theme=react&show_icons=true" />
   </a>
 </div>
-
 ### 📈 Diagram Activities
 <diV align=center>
     
