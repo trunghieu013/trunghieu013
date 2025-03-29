@@ -54,11 +54,11 @@
 
 ### 📈 Diagram Activities
 
-<diV align=center>
-    
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trunghieu013&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
-
-</diV>
+<div align="left">
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
+  <a href="https://trunghieu013.vercel.app/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=trunghieu013&theme=github-compact&radius=16" height="auto" alt="by trunghieu013"/>
+</a>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
