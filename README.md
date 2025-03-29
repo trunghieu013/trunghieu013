@@ -6,11 +6,11 @@
 
 ### :rocket: About me
 
-:mortar*board: \_I am a 3 year student at Duy Tan University*
+🎓 I am a 3 year student at Duy Tan University
 
-:computer: Hey! _I specialize in backend development for web apps. My toolkit includes Node.js and Python, along with Express.js and Django frameworks. I'm also well-versed in HTML/CSS and JavaScript. Let's craft some impressive solutions together!_
+💻 Hey! I specialize in backend development for web apps. My toolkit includes Node.js and Python, along with Express.js and Django frameworks. I'm also well-versed in HTML/CSS and JavaScript. Let's craft some impressive solutions together!
 
-:information*desk_person: \_I like to learn about surrounding technologies for web programming. Learn about cloud computing, DevOps, and AI*
+💁 I like to learn about surrounding technologies for web programming. Learn about cloud computing, DevOps, and AI
 
 <div align="center">
 
@@ -40,25 +40,24 @@
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/trunghieu013/trunghieu/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/trunghieu013/trunghieu013/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
 ### :fire: GitHub Stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="trunghieu013">
-    <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trunghieu013&layout=donut&theme=react"/>
-  </a>
-  <a href="#" title="trunghieu013">
-    <img width="415" align="right" src="https://github-readme-stats.vercel.app/api?username=trunghieu013&theme=react&show_icons=true" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trunghieu013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trunghieu013&layout=compact&langs_count=8&theme=tokyonight&locale=en"/>
+</div>
+
+### 📈 Diagram Activities
+
+<div align="left">
+  <a href="https://trunghieu013.vercel.app/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=trunghieu013&theme=github-compact&radius=16" height="auto" alt="by trunghieu013"/>
   </a>
 </div>
-### :diagram: Activity Diagram
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trunghieu013&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
